@@ -3,23 +3,21 @@
 **Table of Contents**
 
 - [Hack Night](#hack-night)
-  - [Preperation](#preperation)
+  - [Preparation](#preparation)
   - [Event Schedule](#event-schedule)
     - [Introductions](#introductions)
     - [Intro talk](#intro-talk)
     - [Check-ins](#check-ins)
     - [Demos](#demos)
 
-## Preperation 
+## Preparation
 
 Here's a checklist of things that needs to be done before a Hack Night:
 
 - [ ] Choose a time and date
 - [ ] Choose a theme
 - [ ] Announce Hack Night
-  - [ ] Facebook
   - [ ] Email
-  - [ ] Twitter
   - [ ] [Slack](https://starthackclub.slack.com)
     - [ ] [#annoucements](https://starthackclub.slack.com/messages/annoucements)
     - [ ] [#hack-night](https://starthackclub.slack.com/messages/hack-night)
@@ -28,7 +26,7 @@ Here's a checklist of things that needs to be done before a Hack Night:
 
 ### Introductions
 
-Introductions are an icebreaker activity to help hackers learn eachother's names.
+Introductions are an icebreaker activity to help hackers learn each other's names.
 
 Have each hacker and say their name and the answer to two questions about themselves. Here's a few example questions:
 
@@ -50,9 +48,9 @@ The intro talk is given by an organizer of the Hack Night. Make sure to cover th
 
 ### Check-ins
 
-Check-ins are an optional way for organizers to see where everyone is at in with their projects.
+Check-ins are a way for organizers to see where everyone is at in with their projects.
 
-_**Hackers may have muted their chat when hacking. Make sure to ping the [#hack-night](https://starthackclub.slack.com/messages/hack-night) channel before getting check-ins started.**_
+_**Hackers may have muted their chat when hacking. Make sure to ping @here on the [#hack-night](https://starthackclub.slack.com/messages/hack-night) channel before getting check-ins started.**_
 
 ### Demos
 
