@@ -1,2 +1,3 @@
-# events
-Repo hosting documentation for the events we run
+# Events
+
+This is our internal repo for documenting the processes behind events we run.
