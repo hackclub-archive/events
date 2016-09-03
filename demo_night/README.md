@@ -1,7 +1,12 @@
-# Demo Night
+# October Demo Night
 
-Eventbrite: https://demo-night.eventbrite.com
-Facebook Event: https://www.facebook.com/events/249802872065631/
+When: October 2nd, 2pm-6pm
+
+Where: IBM, 425 Market Street, San Francisco
+
+Eventbrite: https://demo-night.hackclub.com
+
+Facebook Event: https://www.facebook.com/events/1563912250583098/
 
 ## Schedule
 
